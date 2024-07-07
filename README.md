@@ -23,10 +23,10 @@ This program can be run using the website Remix linked here: https://remix.ether
 - Within Remix, create a new.sol file and paste the code into it.
 - To run the program by clicking the "Deploy & Run Transactions" button.
 - Make sure to deploy the contract that contains this code.
-- After this, you will be able to interact with the functions as well as call on the variables.
+- After this, you will be able to interact with the functions and call on the variables.
 
 ## Author
 Erin Beatrice Micaela G. Reyes
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE] (LICENSE) file for details.
